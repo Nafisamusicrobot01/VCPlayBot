@@ -23,7 +23,7 @@
       "description": "Your bot's username without @",
       "required": true
     },
-    "BOT_NAME": {
+    "BOT_NAME": {darkmusicbotc
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
       "value": ""
