@@ -17,7 +17,7 @@ Made with Python3
 
 
 
-### Mandatory Vars.
+### herok
 
 - Some Of The Mandatory Vars Are :-
    - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
