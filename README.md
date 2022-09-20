@@ -90,6 +90,6 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 #### Special Credits
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
+- [Rojserbest](http://github.com/sameerja1): Callsmusic Developer
 - [Awesome Bot](http://t.me/LaylaBots) Channel bot list
 - [Dev](http://t.me/Dead0XD) Hero owner of this bot
